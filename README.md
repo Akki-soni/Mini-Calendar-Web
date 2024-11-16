@@ -23,43 +23,20 @@
 
 ## 🚀 Features
 
-- **Real-time validation as the user types.**
-- **Validation for different types of input fields such as text, email, password, and phone number.**
-- **Error messages for invalid inputs.**
-- **Custom styles for error states using CSS.**
-- **Ensures password strength and matching confirmation password fields.**
-- **Prevents form submission until all inputs are valid.**
+- **Displays current month and year by default.**
+- **Allows navigation to the previous and next months.**
+- **Highlights the current day in the calendar.**
+- **Responsive design that works on all screen sizes.**
 
 ## 🛠️ Technologies Used
 
-- **HTML**: Structure and layout of the form.
-- **CSS**: Styling the form and validation feedback.
-- **JavaScript**: Handling the validation logic and user input.
-
-## 🛠️ Validation Criteria
-
-The following input fields are validated:
-
- **Username**: 
-   - Must be between 3-15 characters.
-   - Can only contain letters and numbers.
-   
- **Email**: 
-   - Must be a valid email format (e.g., name@example.com).
-   
- **Password**: 
-   - Minimum 8 characters.
-   - Should include a combination of letters and numbers.
-   
- **Confirm Password**: 
-   - Must match the password field.
-
- **Phone Number** (optional):
-   - Valid phone number format (numbers only, 10 digits).
+- **HTML**: For the structure of the calendar.
+- **CSS**: For styling and layout of the calendar.
+- **JavaScript**: For dynamic functionality like updating months, displaying dates, and highlighting the current day.
 
 ## 🌟 Screenshots
 
-![Form-Validation_Screenshot](/F-M_Screenshot.png)
+![Form-Validation_Screenshot](/_Screenshot.png)
 
 ## 🔗 Live Demo
 
@@ -102,6 +79,6 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## Thank You
 
-Thank you for exploring the Form-Validation! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us.😊
+Thank you for exploring the Mini-Calender! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us.😊
 
 </div>
