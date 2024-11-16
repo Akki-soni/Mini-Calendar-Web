@@ -46,11 +46,11 @@
 
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/Akki-soni/Form-Validation-Web.git>
+   git clone <https://github.com/Akki-soni/Mini-Calendar-Web.git>
    ```
 2. Open the project folder:
    ```bash
-   cd Form-Validation-Web
+   cd Mini-Calender-Web
    ```
 3. Open index.html in any web browser
 
