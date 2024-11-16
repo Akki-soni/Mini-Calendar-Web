@@ -36,7 +36,7 @@
 
 ## 🌟 Screenshots
 
-![Form-Validation_Screenshot](/_Screenshot.png)
+![Form-Validation_Screenshot](/M-C_Screenshot.png)
 
 ## 🔗 Live Demo
 
