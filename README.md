@@ -40,7 +40,7 @@
 
 ## 🔗 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://mini-calendar-web.vercel.app/)
 
 ## How to Use
 
